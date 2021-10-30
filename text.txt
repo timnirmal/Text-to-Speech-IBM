@@ -1,0 +1,9 @@
+Introduction
+
+In this tutorial, we will use IBM Cloud to synthesize speech from text. 
+By using IBM Cloud we can get natural voices.
+
+This application can be voice-driven and screens applications, to make video narration and voice over and for voice-automated chatbots.
+
+**Available languages:**
+Arabic, Brazilian Portuguese, Chinese (Mandarin dialect), Dutch, English (US and UK dialects), 
